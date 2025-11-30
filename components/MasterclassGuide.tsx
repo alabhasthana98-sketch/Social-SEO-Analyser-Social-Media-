@@ -143,7 +143,7 @@ const MasterclassGuide: React.FC<MasterclassGuideProps> = ({ onClose }) => {
                 </div>
                 <ul className="space-y-3 text-sm text-slate-400">
                   <li className="flex gap-2"><span className="text-pink-500">✓</span> <strong>Handle/Bio:</strong> Name field is searchable. Use "Name | Keyword" (e.g., "Sarah | SEO Expert").</li>
-                  <li className="flex gap-2"><span className="text-pink-500">✓</span> <strong>Alt Text:</strong> Advanced Settings -> Write Alt Text. Describe image + Keyword.</li>
+                  <li className="flex gap-2"><span className="text-pink-500">✓</span> <strong>Alt Text:</strong> Advanced Settings → Write Alt Text. Describe image + Keyword.</li>
                   <li className="flex gap-2"><span className="text-pink-500">✓</span> <strong>Location:</strong> Use specific business/venue tags, not just cities.</li>
                 </ul>
               </div>
